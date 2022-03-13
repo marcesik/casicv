@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: PUPPY LOOPY
+title: Peluquería Canina / Tienda de mascotas
+email: puppy.loopy.mascotas@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -21,7 +21,7 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: petshop_puppyloopy
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
